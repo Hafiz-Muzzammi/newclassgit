@@ -1,0 +1,2 @@
+# newclassgit
+hello class
